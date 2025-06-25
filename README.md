@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 My Projects
-- [Smart Desk Organizer](https://vinycodepro.github.io/your-smartdesk-organiser/)  
+- [Smart Desk Organizer](https://vinycodepro.github.io/index.html/)  
 - [More coming soon!]
 
 ---
