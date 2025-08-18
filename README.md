@@ -7,7 +7,11 @@
 
 ## 🚀 My Projects
 - [Smart Desk Organizer](https://vinycodepro.github.io/smartdesk-organiser/)  
-- [More coming soon!]
+- [WildLife Conservation]()
+- [Music site]()
+  [Simple form]()
+  [Personal Website]()
+  [ideas]()
 
 ---
 
